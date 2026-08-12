@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" width="0" height="0">
+  <defs>
+    <symbol id="icon-play" viewBox="0 0 24 24">
+      <path d="m8 5 11 7-11 7V5Z" fill="currentColor"/>
+    </symbol>
+    <symbol id="icon-pause" viewBox="0 0 24 24">
+      <path d="M7 5h4v14H7V5Zm6 0h4v14h-4V5Z" fill="currentColor"/>
+    </symbol>
+    <symbol id="icon-previous" viewBox="0 0 24 24">
+      <path d="M6 5h2v14H6V5Zm12 0v14l-9-7 9-7Z" fill="currentColor"/>
+    </symbol>
+    <symbol id="icon-next" viewBox="0 0 24 24">
+      <path d="M16 5h2v14h-2V5ZM6 5l9 7-9 7V5Z" fill="currentColor"/>
+    </symbol>
+    <symbol id="icon-playlist" viewBox="0 0 24 24">
+      <path d="M4 6h10v2H4V6Zm0 5h10v2H4v-2Zm0 5h7v2H4v-2Zm12-5v7.2a2.8 2.8 0 1 1-2-2.68V11h2Z" fill="currentColor"/>
+    </symbol>
+  </defs>
+</svg>
