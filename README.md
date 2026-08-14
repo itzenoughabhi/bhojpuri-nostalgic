@@ -8,25 +8,25 @@ A modern web experience dedicated to **Bhojpuri nostalgic songs, music, and cult
 
 The project focuses on combining:
 
-* 🎵 Nostalgic Bhojpuri songs
-* 🎤 Bhojpuri artists
-* 💿 Music collections
-* ❤️ Classic memories and emotions
-* 🌾 Bhojpuri cultural identity
-* 🖥️ Modern web design and user experience
+- 🎵 Nostalgic Bhojpuri songs
+- 🎤 Bhojpuri artists
+- 💿 Music collections
+- ❤️ Classic memories and emotions
+- 🌾 Bhojpuri cultural identity
+- 🖥️ Modern web design and user experience
 
 The goal is to create a digital space where users can explore and reconnect with memorable Bhojpuri music.
 
 ## ✨ Features
 
-* 🎶 Browse Bhojpuri nostalgic music
-* 🎤 Explore Bhojpuri artists and songs
-* 🔎 Easy navigation and discovery
-* 🎨 Modern and responsive user interface
-* 📱 Mobile-friendly design
-* ⚡ Fast frontend experience
-* 🗂️ Organized project structure
-* ❤️ Focus on classic Bhojpuri music and nostalgia
+- 🎶 Browse Bhojpuri nostalgic music
+- 🎤 Explore Bhojpuri artists and songs
+- 🔎 Easy navigation and discovery
+- 🎨 Modern and responsive user interface
+- 📱 Mobile-friendly design
+- ⚡ Fast frontend experience
+- 🗂️ Organized project structure
+- ❤️ Focus on classic Bhojpuri music and nostalgia
 
 ## 🛠️ Tech Stack
 
@@ -75,10 +75,10 @@ Contains static files that can be accessed directly by the application.
 
 Contains application assets such as:
 
-* Images
-* Icons
-* Illustrations
-* Other frontend resources
+- Images
+- Icons
+- Illustrations
+- Other frontend resources
 
 ### `src/components/`
 
@@ -94,9 +94,9 @@ Contains reusable utility functions and helper logic used throughout the applica
 
 Make sure you have the following installed:
 
-* Node.js
-* npm
-* Git
+- Node.js
+- npm
+- Git
 
 You can verify your installation:
 
@@ -151,7 +151,6 @@ npm run preview
 ## 🤝 Contributing
 
 Contributions are welcome.
-
 If you want to contribute:
 
 1. Fork the repository.
@@ -182,14 +181,14 @@ Then open a Pull Request against the main repository.
 
 ### Contribution Guidelines
 
-* Keep components reusable and maintainable.
-* Follow the existing project structure.
-* Use meaningful variable and component names.
-* Avoid unnecessary dependencies.
-* Keep UI responsive.
-* Test changes before creating a Pull Request.
-* Do not commit secrets or API keys.
-* Do not add copyrighted music or media without appropriate rights.
+- Keep components reusable and maintainable.
+- Follow the existing project structure.
+- Use meaningful variable and component names.
+- Avoid unnecessary dependencies.
+- Keep UI responsive.
+- Test changes before creating a Pull Request.
+- Do not commit secrets or API keys.
+- Do not add copyrighted music or media without appropriate rights.
 
 ## ⚖️ Copyright & Content Disclaimer
 
@@ -197,13 +196,13 @@ This project is intended as a **frontend and cultural music project**.
 
 The repository does not claim ownership of third-party:
 
-* Songs
-* Music recordings
-* Lyrics
-* Artist names
-* Album artwork
-* Images
-* Other copyrighted material
+- Songs
+- Music recordings
+- Lyrics
+- Artist names
+- Album artwork
+- Images
+- Other copyrighted material
 
 All respective copyrights, trademarks, and intellectual-property rights belong to their respective owners.
 
