@@ -18,7 +18,6 @@ The project focuses on combining:
 The goal is to create a digital space where users can explore and reconnect with memorable Bhojpuri music.
 
 ## ✨ Features
-
 - 🎶 Browse Bhojpuri nostalgic music
 - 🎤 Explore Bhojpuri artists and songs
 - 🔎 Easy navigation and discovery
